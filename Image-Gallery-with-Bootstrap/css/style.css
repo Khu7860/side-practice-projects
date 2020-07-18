@@ -1,0 +1,50 @@
+body{
+    padding-top: 80px;
+}
+#navbar1{
+    background-color: #2c3e50;
+    font-weight: 600;
+    color: white;
+}
+#brandimage{
+    padding-right: 2px;
+}
+
+#jumbo1{
+    background-color: #ecf0f1;
+    color: #2c3e50;
+    font-weight: 900;
+}
+.image1{
+    background-image: url(../images/alireza-valizadeh-BQ8v96_c0j0-unsplash.jpg);
+}
+.image2{
+    background-image: url(../images/corinne-kutz-IJ9BJjxYJO4-unsplash.jpg);
+}
+.image3{
+    background-image: url(../images/dave-hoefler-THp6auC7Pr4-unsplash.jpg);
+}
+.image4{
+    background-image: url(../images/ivo-daskalov-3a7vJCrL7FI-unsplash.jpg);
+}
+.image5{
+    background-image: url(../images/jonathan-kemper-zSCHyhiRSeQ-unsplash.jpg);
+}
+.image6{
+    background-image: url(../images/michael-dolejs-0kNda5c9i7w-unsplash.jpg);
+}
+.image7{
+    background-image: url(../images/nina-mercado-Xvls2Cr576s-unsplash.jpg);
+}
+.image8{
+    background-image: url(../images/peter-gabas-IDNBHZTamQ8-unsplash.jpg);
+}
+.image9{
+    background-image: url(../images/stefano-zocca-GlEOCQmh6M0-unsplash.jpg);
+}
+.image{
+    width: 100%;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+}
